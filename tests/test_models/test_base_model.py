@@ -20,10 +20,10 @@ class TestBaseModel_instatiation(unittest.TestCase):
         self.assertEqual(BaseModel, type(BaseModel()))
 
     def test_new_instance_stored_in_objects(self):
-        self.assertIn(BaseModel(), models.storage.all().value())
+        self.assertIn(BaseModel(), models.storage.all().values())
 
     def test_id_is_public_str(self):
-        self.assertEqual(datetime, type(BaseModel().id))
+        self.assertEqual(str, type(BaseModel().id))
 
     def test_created_at_is_public_datetime(self):
         self.assertEqual(datetime, type(BaseModel().created_at))
