@@ -67,6 +67,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 - **Ukah Emmanuel Ogbonna** ~ [ukaemmanuel2000@gmail.com](https://github.com/ukaemma2) ~ [@OgbonnaUkah](https://twitter.com/OgbonnaUkah) : 
 
-- **Praise Adigun Oluwafikayo** - [](https://github.com/Praisedoumar) ~ [](https://twitter.com/):
+- **Praise Adigun Oluwafikayo** - (https://github.com/Praisedoumar) ~ [](https://twitter.com/):
 
 <img align="center" src="https://raw.githubusercontent.com/nickssilver/AirBnB_clone/main/img/unnamed.png" alt="footer" width="150"  height="150"/>
