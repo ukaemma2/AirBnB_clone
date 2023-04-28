@@ -1,7 +1,5 @@
-first_name = 'Emmanuel'
-second_name = 'Ukah'
+students = ['Chika', 'peterAjah', 'Biola_Lawal', 'Emmanuel', 'Ukason']
 
-
-totalName = first_name + ' ' + second_name
-
-print(totalName)
+# print the students and the character numbers
+for student in students:
+    print (student, len(student))
