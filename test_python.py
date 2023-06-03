@@ -13,3 +13,7 @@ cheeseshop("Limburger kind", "It's very runny, sir.",
            client="John Cleese",
            sketch="Cheese Shop Sketch")
     
+
+args = [3, 6]
+print(list(range(*args)))
+
