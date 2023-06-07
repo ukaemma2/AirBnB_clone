@@ -17,3 +17,10 @@ cheeseshop("Limburger kind", "It's very runny, sir.",
 args = [3, 6]
 print(list(range(*args)))
 
+
+# # list of items'
+list2 = ['cat', 'bat', 'mat', 'cat', 'pet', 'bat']
+ 
+# Will print the index of 'bat' in list2
+list2.pop()
+print(list2)
