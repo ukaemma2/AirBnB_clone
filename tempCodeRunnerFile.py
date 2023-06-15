@@ -1,1 +1,1 @@
-'cat', 'bat', 'mat', 'cat', 'pet', 
+print(list2)
