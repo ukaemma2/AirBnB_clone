@@ -7,8 +7,8 @@ def cheeseshop(kind, *arguments, **keywords):
     for kw in keywords:
         print(kw, ":", keywords[kw])
 
-cheeseshop("Limburger kind", "It's very runny, sir.",
-           "It's really very, VERY runny, sir.", "my type is Victoria",
+cheeseshop(
+            "Table","It's very runny, sir.","It's really very, VERY runny, sir.", "my type is Victoria", "this is my name",
            shopkeeper="Michael Palin",
            client="John Cleese",
            sketch="Cheese Shop Sketch")
